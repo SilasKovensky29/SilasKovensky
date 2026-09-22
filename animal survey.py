@@ -1,0 +1,5 @@
+favorite_animal = input("what is your favorite animal")
+sound = input("what sound does your animal make")
+color = input("what color is your animal")
+likes = input("why do you like this animal")
+print("your favorite animal is" + favorite_animal + "the sound your animal makes is " + sound + "the color your animal is" + color + "you like this animal because it is" + likes)
